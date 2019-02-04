@@ -15,7 +15,9 @@ public class StudentDemo
   private String name;
   private String program;
   private String course;
+  private String fetch_merge;
   //adding comment while in RONAK_SHETH branch
+  //Let's learn about fetch and merge
   /**
    * A constructor to pass in the given ID and then name
    * @param givenID - the ID to assign
